@@ -19,5 +19,75 @@
     "year": "2020",
     "title": "Physics 2020 - Set 1",
     "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
-  }
+  },
+  {
+    "id": "cbse-10-Maths-2021",
+    "board": "CBSE",
+    "class": "10",
+    "stream": "",
+    "subject": "Mathematics",
+    "year": "2021",
+    "title": "Mathematics 2021 ",
+    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+  },
+  {
+    "id": "cbse-10-Science-2021",
+    "board": "CBSE",
+    "class": "12",
+    "stream": "SCIENCE",
+    "subject": "Science",
+    "year": "2021",
+    "title": "Science 2021 ",
+    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+  },
+{
+    "id": "cbse-10-Social Science-2021",
+    "board": "CBSE",
+    "class": "12",
+    "stream": "Social Science",
+    "subject": "Social Science",
+    "year": "2021",
+    "title": "Social Science 2021 ",
+    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+  },
+{
+    "id": "cbse-10-Hindi-A-2021",
+    "board": "CBSE",
+    "class": "12",
+    "stream": "Hindi-A",
+    "subject": "Hindi-A",
+    "year": "2021",
+    "title": "Hindi -A 2021 ",
+    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+  },
+{
+    "id": "cbse-10-Hindi-B-2021",
+    "board": "CBSE",
+    "class": "12",
+    "stream": "Hindi-B",
+    "subject": "Hindi-B",
+    "year": "2021",
+    "title": "Hindi-B 2021 ",
+    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+  },
+{
+    "id": "cbse-10-English LNG & LIT-2021",
+    "board": "CBSE",
+    "class": "12",
+    "stream": "English LNG & LIT",
+    "subject": "English LNG & LIT",
+    "year": "2021",
+    "title": "English LNG & LIT 2021 ",
+    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+  },
+{
+    "id": "cbse-10-English COMM-2021",
+    "board": "CBSE",
+    "class": "12",
+    "stream": "English COMM",
+    "subject": "English COMM",
+    "year": "2021",
+    "title": "English COMM 2021 ",
+    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+}
 ]
