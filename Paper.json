@@ -1,153 +1,204 @@
 
 [
-  {
-    "id": "cbse-10-maths-2019-set1",
+  
+    {
+    "id": "cbse-10-Maths-2019",
     "board": "CBSE",
     "class": "10",
     "stream": "",
     "subject": "Mathematics",
     "year": "2019",
-    "title": "Mathematics 2019 - Set 1",
+    "title": "Mathematics 2019 ",
     "pdfUrl": "https://cbseacademic.nic.in/web_material/SQP/ClassX_2019_20/MathematicsStandard_SQP.pdf"
   },
   {
-    "id": "cbse-12-sci-phy-2020-set1",
-    "board": "CBSE",
-    "class": "12",
-    "stream": "SCIENCE",
-    "subject": "Physics",
-    "year": "2020",
-    "title": "Physics 2020 - Set 1",
-    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
-  },
-  {
-    "id": "cbse-10-Maths-2021",
+    "id": "cbse-10-Science-2019",
     "board": "CBSE",
     "class": "10",
     "stream": "",
-    "subject": "Mathematics",
-    "year": "2021",
-    "title": "Mathematics 2021 ",
-    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
-  },
-  {
-    "id": "cbse-10-Science-2021",
-    "board": "CBSE",
-    "class": "12",
-    "stream": "SCIENCE",
     "subject": "Science",
-    "year": "2021",
-    "title": "Science 2021 ",
-    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+    "year": "2019",
+    "title": "Science 2019 ",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
   },
 {
-    "id": "cbse-10-Social Science-2021",
+    "id": "cbse-10-Social Science-2019",
     "board": "CBSE",
-    "class": "12",
-    "stream": "Social Science",
+    "class": "10",
+    "stream": "",
     "subject": "Social Science",
-    "year": "2021",
-    "title": "Social Science 2021 ",
-    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+    "year": "2019",
+    "title": "Social Science 2019 ",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
   },
 {
-    "id": "cbse-10-Hindi-A-2021",
+    "id": "cbse-10-Hindi-A-2019",
     "board": "CBSE",
-    "class": "12",
-    "stream": "Hindi-A",
+    "class": "10",
+    "stream": "",
     "subject": "Hindi-A",
-    "year": "2021",
-    "title": "Hindi -A 2021 ",
-    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+    "year": "2019",
+    "title": "Hindi -A 2019 ",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
   },
 {
-    "id": "cbse-10-Hindi-B-2021",
+    "id": "cbse-10-Hindi-B-2019",
     "board": "CBSE",
-    "class": "12",
-    "stream": "Hindi-B",
+    "class": "10",
+    "stream": "",
     "subject": "Hindi-B",
-    "year": "2021",
-    "title": "Hindi-B 2021 ",
-    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+    "year": "2019",
+    "title": "Hindi-B 2019 ",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
   },
 {
-    "id": "cbse-10-English LNG & LIT-2021",
+    "id": "cbse-10-English LNG & LIT-2019",
     "board": "CBSE",
-    "class": "12",
-    "stream": "English LNG & LIT",
+    "class": "10",
+    "stream": "",
     "subject": "English LNG & LIT",
-    "year": "2021",
-    "title": "English LNG & LIT 2021 ",
-    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+    "year": "2019",
+    "title": "English LNG & LIT 2019 ",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
   },
 {
-    "id": "cbse-10-English COMM-2021",
+    "id": "cbse-10-English COMM-2019",
     "board": "CBSE",
-    "class": "12",
-    "stream": "English COMM",
+    "class": "10",
+    "stream": "",
     "subject": "English COMM",
-    "year": "2021",
-    "title": "English COMM 2021 ",
-    "pdfUrl": "https://www.cbseboardonline.com/papers/cbse-class-10-model-paper-computer-applications-165-2026.pdf"
+    "year": "2019",
+    "title": "English COMM 2019 ",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
 },
   {
-    "id": "cbse-10-Maths-2026",
+    "id": "cbse-10-Maths-2019",
+    "board": "JAC",
+    "class": "10",
+    "stream": "",
+    "subject": "Mathematics",
+    "year": "2019",
+    "title": "Mathematics 2019 ",
+    "pdfUrl": "https://cbseacademic.nic.in/web_material/SQP/ClassX_2019_20/MathematicsStandard_SQP.pdf"
+  },
+  {
+    "id": "cbse-10-Science-2019",
+    "board": "JAC",
+    "class": "10",
+    "stream": "",
+    "subject": "Science",
+    "year": "2019",
+    "title": "Science 2019 ",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
+  },
+{
+    "id": "cbse-10-Social Science-2019",
+    "board": "JAC",
+    "class": "10",
+    "stream": "",
+    "subject": "Social Science",
+    "year": "2019",
+    "title": "Social Science 2019 ",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
+  },
+{
+    "id": "cbse-10-Hindi-A-2019",
+    "board": "JAC",
+    "class": "10",
+    "stream": "",
+    "subject": "Hindi-A",
+    "year": "2019",
+    "title": "Hindi -A 2019 ",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
+  },
+{
+    "id": "cbse-10-Hindi-B-2019",
+    "board": "JAC",
+    "class": "10",
+    "stream": "",
+    "subject": "Hindi-B",
+    "year": "2019",
+    "title": "Hindi-B 2019 ",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
+  },
+{
+    "id": "cbse-10-English -2019",
+    "board": "JAC",
+    "class": "10",
+    "stream": " ",
+    "subject": "English ",
+    "year": "2019",
+    "title": "English  2019 ",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
+},
+  {
+    "id": "cbse-10-Maths-2020",
     "board": "CBSE",
     "class": "10",
     "stream": "",
     "subject": "Mathematics",
-    "year": "2026",
-    "title": "Mathematics 2026 ",
+    "year": "2020",
+    "title": "Mathematics 2020 ",
     "pdfUrl": "https://cbseacademic.nic.in/web_material/SQP/ClassX_2019_20/MathematicsStandard_SQP.pdf"
   },
   {
-    "id": "cbse-10-Science-2026",
+    "id": "cbse-10-Science-2020",
     "board": "CBSE",
     "class": "10",
-    "stream": "SCIENCE",
+    "stream": "",
     "subject": "Science",
-    "year": "2026",
-    "title": "Science 2026 ",
+    "year": "2020",
+    "title": "Science 2020 ",
     "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
   },
 {
-    "id": "cbse-10-Social Science-2026",
+    "id": "cbse-10-Social Science-2020",
     "board": "CBSE",
     "class": "10",
-    "stream": "Social Science",
+    "stream": "",
     "subject": "Social Science",
-    "year": "2026",
-    "title": "Social Science 2026 ",
+    "year": "2020",
+    "title": "Social Science 2020 ",
     "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
   },
 {
-    "id": "cbse-10-Hindi-A-2026",
+    "id": "cbse-10-Hindi-A-2020",
     "board": "CBSE",
     "class": "10",
-    "stream": "Hindi-A",
+    "stream": "",
     "subject": "Hindi-A",
-    "year": "2026",
-    "title": "Hindi -A 2026 ",
+    "year": "2020",
+    "title": "Hindi -A 2020 ",
     "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
   },
 {
-    "id": "cbse-10-Hindi-B-2026",
+    "id": "cbse-10-Hindi-B-2020",
     "board": "CBSE",
     "class": "10",
-    "stream": "Hindi-B",
+    "stream": "",
     "subject": "Hindi-B",
-    "year": "2026",
-    "title": "Hindi-B 2026 ",
+    "year": "2020",
+    "title": "Hindi-B 2020 ",
     "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
   },
 {
-    "id": "cbse-10-English-2026",
+    "id": "cbse-10-English LNG & LIT-2020",
     "board": "CBSE",
     "class": "10",
-    "stream": "English",
-    "subject": "English",
-    "year": "2026",
-    "title": "English 2026 ",
+    "stream": "",
+    "subject": "English LNG & LIT",
+    "year": "2020",
+    "title": "English LNG & LIT 2020 ",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
+  },
+{
+    "id": "cbse-10-English COMM-2020",
+    "board": "CBSE",
+    "class": "10",
+    "stream": "",
+    "subject": "English COMM",
+    "year": "2020",
+    "title": "English COMM 2020 ",
     "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
 }
 ]
