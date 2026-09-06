@@ -200,5 +200,75 @@
     "year": "2020",
     "title": "English COMM 2020 ",
     "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
-}
+},
+  {
+    "id": "cbse-10-Maths-2026",
+    "board": "Bihar Board",
+    "class": "10",
+    "stream": "",
+    "subject": "Mathematics",
+    "year": "2026",
+    "title": "Mathematics 2026 ",
+    "pdfUrl": "https://www.bsebstudy.com/papers/bihar-board-class-10-english-113-set-a-2026.pdf"
+  },
+  {
+    "id": "cbse-10-Science-2026",
+    "board": "Bihar Board",
+    "class": "10",
+    "stream": "",
+    "subject": "Science",
+    "year": "2026",
+    "title": "Science 2026 ",
+    "pdfUrl": "https://www.bsebstudy.com/papers/bihar-board-class-10-english-113-set-a-2026.pdf"
+  },
+{
+    "id": "cbse-10-Social Science-2026",
+    "board": "Bihar Board",
+    "class": "10",
+    "stream": "",
+    "subject": "Social Science",
+    "year": "2026",
+    "title": "Social Science 2026 ",
+    "pdfUrl": "https://www.bsebstudy.com/papers/bihar-board-class-10-english-113-set-a-2026.pdf"
+  },
+{
+    "id": "cbse-10-Hindi-2026",
+    "board": "Bihar Board",
+    "class": "10",
+    "stream": "",
+    "subject": "Hindi",
+    "year": "2026",
+    "title": "Hindi 2026 ",
+    "pdfUrl": "https://www.bsebstudy.com/papers/bihar-board-class-10-english-113-set-a-2026.pdf"
+  },
+{
+    "id": "cbse-10-English -2026",
+    "board": "Bihar Board",
+    "class": "10",
+    "stream": " ",
+    "subject": "English ",
+    "year": "2026",
+    "title": "English  2026 ",
+    "pdfUrl": "https://www.bsebstudy.com/papers/bihar-board-class-10-english-113-set-a-2026.pdf"
+  },
+{
+    "id": "cbse-10-Sanskrit-2026",
+    "board": "Bihar Board",
+    "class": "10",
+    "stream": "",
+    "subject": "Sanskrit",
+    "year": "2026",
+    "title": "Sanskrit 2026 ",
+    "pdfUrl": "https://www.bsebstudy.com/papers/bihar-board-class-10-english-113-set-a-2026.pdf"
+  },
+{
+    "id": "cbse-10-Urdu-2026",
+    "board": "Bihar Board",
+    "class": "10",
+    "stream": "",
+    "subject": "Urdu",
+    "year": "2026",
+    "title": "Urdu 2026 ",
+    "pdfUrl": "https://www.bsebstudy.com/papers/bihar-board-class-10-english-113-set-a-2026.pdf"
+  }
 ]
